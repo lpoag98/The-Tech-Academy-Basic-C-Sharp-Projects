@@ -23,7 +23,14 @@ class Program
         int pagenumber = Convert.ToInt32(Console.ReadLine());
 
         Console.WriteLine("Do you need help with anything, please enter true or false.");
-        bool needhelp = Convert.ToBoolean(Console.ReadLine());
+        bool needhelp1 = Convert.ToBoolean(Console.ReadLine());
+
+        Console.WriteLine("Were there any positive experiences you'd like to share? Please give specifics.");
+        string feedback1 = Console.ReadLine();
+
+        Console.WriteLine("How many hours did you study today?");
+        int studyhours = Convert.ToInt32(Console.ReadLine());
+
         Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
 
         //This makes sure the program does not close at the end

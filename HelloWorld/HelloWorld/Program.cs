@@ -28,6 +28,9 @@ class Program
         Console.WriteLine("Were there any positive experiences you'd like to share? Please give specifics.");
         string feedback1 = Console.ReadLine();
 
+        Console.WriteLine("Is there any other feedback you’d like to provide? Please be specific.");
+        string feedback2 = Console.ReadLine();
+
         Console.WriteLine("How many hours did you study today?");
         int studyhours = Convert.ToInt32(Console.ReadLine());
 

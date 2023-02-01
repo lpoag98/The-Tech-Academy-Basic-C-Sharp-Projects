@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MATH_AND_COMPARISON_OPERATOR_SUBMISSION/1.0.0": {
+        "runtime": {
+          "MATH_AND_COMPARISON_OPERATOR_SUBMISSION.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MATH_AND_COMPARISON_OPERATOR_SUBMISSION/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

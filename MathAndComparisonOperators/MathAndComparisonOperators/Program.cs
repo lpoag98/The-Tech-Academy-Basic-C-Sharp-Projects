@@ -91,9 +91,9 @@ namespace MathAndComparisonOperators
             int annualsalary2 = hourlyrate2 * hourperweek2 * 52;
 
             //Annual salary of person 1 and 2
-            Console.WriteLine("Annual salary of Person 1:" + annualsalary1);
+            Console.WriteLine("Annual salary of Person 1: " + annualsalary1);
 
-            Console.WriteLine("Annual salary of Person 2:" + annualsalary2);
+            Console.WriteLine("Annual salary of Person 2: " + annualsalary2);
 
 
             Console.WriteLine("Does Person 1 make more money than Person 2?");

@@ -1,0 +1,13 @@
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_6_Assignment\Console_App_6_Assignment\bin\Debug\netcoreapp3.1\Console_App_6_Assignment.exe
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_6_Assignment\Console_App_6_Assignment\bin\Debug\netcoreapp3.1\Console_App_6_Assignment.deps.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_6_Assignment\Console_App_6_Assignment\bin\Debug\netcoreapp3.1\Console_App_6_Assignment.runtimeconfig.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_6_Assignment\Console_App_6_Assignment\bin\Debug\netcoreapp3.1\Console_App_6_Assignment.runtimeconfig.dev.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_6_Assignment\Console_App_6_Assignment\bin\Debug\netcoreapp3.1\Console_App_6_Assignment.dll
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_6_Assignment\Console_App_6_Assignment\bin\Debug\netcoreapp3.1\Console_App_6_Assignment.pdb
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_6_Assignment\Console_App_6_Assignment\obj\Debug\netcoreapp3.1\Console_App_6_Assignment.csproj.AssemblyReference.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_6_Assignment\Console_App_6_Assignment\obj\Debug\netcoreapp3.1\Console_App_6_Assignment.AssemblyInfoInputs.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_6_Assignment\Console_App_6_Assignment\obj\Debug\netcoreapp3.1\Console_App_6_Assignment.AssemblyInfo.cs
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_6_Assignment\Console_App_6_Assignment\obj\Debug\netcoreapp3.1\Console_App_6_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_6_Assignment\Console_App_6_Assignment\obj\Debug\netcoreapp3.1\Console_App_6_Assignment.dll
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_6_Assignment\Console_App_6_Assignment\obj\Debug\netcoreapp3.1\Console_App_6_Assignment.pdb
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_6_Assignment\Console_App_6_Assignment\obj\Debug\netcoreapp3.1\Console_App_6_Assignment.genruntimeconfig.cache

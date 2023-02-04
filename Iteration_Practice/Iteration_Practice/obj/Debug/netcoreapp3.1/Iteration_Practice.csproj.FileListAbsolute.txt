@@ -1,0 +1,13 @@
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_Practice\Iteration_Practice\bin\Debug\netcoreapp3.1\Iteration_Practice.exe
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_Practice\Iteration_Practice\bin\Debug\netcoreapp3.1\Iteration_Practice.deps.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_Practice\Iteration_Practice\bin\Debug\netcoreapp3.1\Iteration_Practice.runtimeconfig.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_Practice\Iteration_Practice\bin\Debug\netcoreapp3.1\Iteration_Practice.runtimeconfig.dev.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_Practice\Iteration_Practice\bin\Debug\netcoreapp3.1\Iteration_Practice.dll
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_Practice\Iteration_Practice\bin\Debug\netcoreapp3.1\Iteration_Practice.pdb
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_Practice\Iteration_Practice\obj\Debug\netcoreapp3.1\Iteration_Practice.csproj.AssemblyReference.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_Practice\Iteration_Practice\obj\Debug\netcoreapp3.1\Iteration_Practice.AssemblyInfoInputs.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_Practice\Iteration_Practice\obj\Debug\netcoreapp3.1\Iteration_Practice.AssemblyInfo.cs
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_Practice\Iteration_Practice\obj\Debug\netcoreapp3.1\Iteration_Practice.csproj.CoreCompileInputs.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_Practice\Iteration_Practice\obj\Debug\netcoreapp3.1\Iteration_Practice.dll
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_Practice\Iteration_Practice\obj\Debug\netcoreapp3.1\Iteration_Practice.pdb
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Iteration_Practice\Iteration_Practice\obj\Debug\netcoreapp3.1\Iteration_Practice.genruntimeconfig.cache

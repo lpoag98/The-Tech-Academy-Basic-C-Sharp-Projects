@@ -1,0 +1,13 @@
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_Strings_Integer\Console_App_Strings_Integer\bin\Debug\netcoreapp3.1\Console_App_Strings_Integer.exe
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_Strings_Integer\Console_App_Strings_Integer\bin\Debug\netcoreapp3.1\Console_App_Strings_Integer.deps.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_Strings_Integer\Console_App_Strings_Integer\bin\Debug\netcoreapp3.1\Console_App_Strings_Integer.runtimeconfig.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_Strings_Integer\Console_App_Strings_Integer\bin\Debug\netcoreapp3.1\Console_App_Strings_Integer.runtimeconfig.dev.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_Strings_Integer\Console_App_Strings_Integer\bin\Debug\netcoreapp3.1\Console_App_Strings_Integer.dll
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_Strings_Integer\Console_App_Strings_Integer\bin\Debug\netcoreapp3.1\Console_App_Strings_Integer.pdb
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_Strings_Integer\Console_App_Strings_Integer\obj\Debug\netcoreapp3.1\Console_App_Strings_Integer.csproj.AssemblyReference.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_Strings_Integer\Console_App_Strings_Integer\obj\Debug\netcoreapp3.1\Console_App_Strings_Integer.AssemblyInfoInputs.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_Strings_Integer\Console_App_Strings_Integer\obj\Debug\netcoreapp3.1\Console_App_Strings_Integer.AssemblyInfo.cs
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_Strings_Integer\Console_App_Strings_Integer\obj\Debug\netcoreapp3.1\Console_App_Strings_Integer.csproj.CoreCompileInputs.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_Strings_Integer\Console_App_Strings_Integer\obj\Debug\netcoreapp3.1\Console_App_Strings_Integer.dll
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_Strings_Integer\Console_App_Strings_Integer\obj\Debug\netcoreapp3.1\Console_App_Strings_Integer.pdb
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console_App_Strings_Integer\Console_App_Strings_Integer\obj\Debug\netcoreapp3.1\Console_App_Strings_Integer.genruntimeconfig.cache

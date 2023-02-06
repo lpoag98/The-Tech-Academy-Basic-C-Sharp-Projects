@@ -38,6 +38,7 @@ namespace Console_App_Strings_Integer
                 Console.ReadLine();
             }
 
+            Console.WriteLine("Program has emerged from the try/catch block and continued on with program execution.");
             Console.ReadLine();
         }
     }

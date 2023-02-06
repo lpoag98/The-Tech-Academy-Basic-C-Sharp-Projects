@@ -10,3 +10,4 @@ C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects
 C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CALLING_METHODS\CALLING_METHODS\obj\Debug\netcoreapp3.1\CALLING_METHODS.dll
 C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CALLING_METHODS\CALLING_METHODS\obj\Debug\netcoreapp3.1\CALLING_METHODS.pdb
 C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CALLING_METHODS\CALLING_METHODS\obj\Debug\netcoreapp3.1\CALLING_METHODS.genruntimeconfig.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CALLING_METHODS\CALLING_METHODS\obj\Debug\netcoreapp3.1\CALLING_METHODS.csproj.AssemblyReference.cache

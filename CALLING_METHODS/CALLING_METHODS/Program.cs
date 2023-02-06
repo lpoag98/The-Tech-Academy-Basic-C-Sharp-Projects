@@ -8,28 +8,22 @@ namespace CALLING_METHODS
     {
         static void Main(string[] args)
         {
-            List<int> numbers = new List<int> { 10, 20, 30, 40, 50 };
-            Console.WriteLine("Enter a number to divide each number in the list by: ");
+            //asks user for a number and stores it as userInput
+            Console.WriteLine("Enter a number:");
+            int userInput = Convert.ToInt32(Console.ReadLine());
 
-            try
-            {
-                int divisor = int.Parse(Console.ReadLine());
-                foreach (int number in numbers)
-                {
-                    int result = number / divisor;
-                    Console.WriteLine(number + " divided by " + divisor + " = " + result);
-                }
-            }
-            catch (DivideByZeroException ex)
-            {
-                Console.WriteLine("Error: Cannot divide by zero.");
-            }
-            catch (FormatException ex)
-            {
-                Console.WriteLine("Error: Invalid input. A number was expected.");
-            }
+            //3 int results made to take input and applies the method accordingly 
+            MathOperations math = new MathOperations();
+            int result1 = math.AddTen(userInput);
+            int result2 = math.MultiplyByTwo(userInput);
+            int result3 = math.Square(userInput);
 
-            Console.WriteLine("Program has emerged from the try/catch block and continued on with program execution.");
+
+            //displays to the user the results.
+            Console.WriteLine("Result 1: " + result1);
+            Console.WriteLine("Result 2: " + result2);
+            Console.WriteLine("Result 3: " + result3);
+
             Console.ReadLine();
         }
     }

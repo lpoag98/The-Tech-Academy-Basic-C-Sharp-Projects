@@ -33,15 +33,17 @@ namespace Console_App_6_Assignment
 
             //CONSOLE APP PART TWO ASSIGNMENT
 
+            //this is the exit variable, it controls the continuation of the loop.
             bool exit = false;
-
+            //This is where the loop is, it continues to run as long as the 
             while (!exit)
             {
                 Console.WriteLine("Enter Q to quit the loop: ");
                 string userChoice = Console.ReadLine();
-                //if Q is entered into the readline then will = true and exit loop
+                //if Q is entered into the readline then the if block of code will run, exit = true, and exit loop
                 if (userChoice == "Q" || userChoice == "q")
                 {
+                    //The exit variable is only set to true when user enters upper or lowercase Q.
                     exit = true;
                 }
             }
@@ -109,7 +111,7 @@ namespace Console_App_6_Assignment
 
             for (int i = 0; i < list5.Count; i++)
             {
-                if (list5[i] == userInput)
+                if (list5[i] == input6)
                 {
                     indices.Add(i);
                 }

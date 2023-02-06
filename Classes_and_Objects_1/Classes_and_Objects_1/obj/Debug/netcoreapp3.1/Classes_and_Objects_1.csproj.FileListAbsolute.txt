@@ -1,0 +1,13 @@
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Classes_and_Objects_1\Classes_and_Objects_1\obj\Debug\netcoreapp3.1\Classes_and_Objects_1.csproj.AssemblyReference.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Classes_and_Objects_1\Classes_and_Objects_1\obj\Debug\netcoreapp3.1\Classes_and_Objects_1.AssemblyInfoInputs.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Classes_and_Objects_1\Classes_and_Objects_1\obj\Debug\netcoreapp3.1\Classes_and_Objects_1.AssemblyInfo.cs
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Classes_and_Objects_1\Classes_and_Objects_1\obj\Debug\netcoreapp3.1\Classes_and_Objects_1.csproj.CoreCompileInputs.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Classes_and_Objects_1\Classes_and_Objects_1\bin\Debug\netcoreapp3.1\Classes_and_Objects_1.exe
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Classes_and_Objects_1\Classes_and_Objects_1\bin\Debug\netcoreapp3.1\Classes_and_Objects_1.deps.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Classes_and_Objects_1\Classes_and_Objects_1\bin\Debug\netcoreapp3.1\Classes_and_Objects_1.runtimeconfig.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Classes_and_Objects_1\Classes_and_Objects_1\bin\Debug\netcoreapp3.1\Classes_and_Objects_1.runtimeconfig.dev.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Classes_and_Objects_1\Classes_and_Objects_1\bin\Debug\netcoreapp3.1\Classes_and_Objects_1.dll
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Classes_and_Objects_1\Classes_and_Objects_1\bin\Debug\netcoreapp3.1\Classes_and_Objects_1.pdb
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Classes_and_Objects_1\Classes_and_Objects_1\obj\Debug\netcoreapp3.1\Classes_and_Objects_1.dll
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Classes_and_Objects_1\Classes_and_Objects_1\obj\Debug\netcoreapp3.1\Classes_and_Objects_1.pdb
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Classes_and_Objects_1\Classes_and_Objects_1\obj\Debug\netcoreapp3.1\Classes_and_Objects_1.genruntimeconfig.cache

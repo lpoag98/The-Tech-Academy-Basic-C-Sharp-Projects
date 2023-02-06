@@ -1,0 +1,12 @@
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CALLING_METHODS\CALLING_METHODS\bin\Debug\netcoreapp3.1\CALLING_METHODS.exe
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CALLING_METHODS\CALLING_METHODS\bin\Debug\netcoreapp3.1\CALLING_METHODS.deps.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CALLING_METHODS\CALLING_METHODS\bin\Debug\netcoreapp3.1\CALLING_METHODS.runtimeconfig.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CALLING_METHODS\CALLING_METHODS\bin\Debug\netcoreapp3.1\CALLING_METHODS.runtimeconfig.dev.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CALLING_METHODS\CALLING_METHODS\bin\Debug\netcoreapp3.1\CALLING_METHODS.dll
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CALLING_METHODS\CALLING_METHODS\bin\Debug\netcoreapp3.1\CALLING_METHODS.pdb
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CALLING_METHODS\CALLING_METHODS\obj\Debug\netcoreapp3.1\CALLING_METHODS.AssemblyInfoInputs.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CALLING_METHODS\CALLING_METHODS\obj\Debug\netcoreapp3.1\CALLING_METHODS.AssemblyInfo.cs
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CALLING_METHODS\CALLING_METHODS\obj\Debug\netcoreapp3.1\CALLING_METHODS.csproj.CoreCompileInputs.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CALLING_METHODS\CALLING_METHODS\obj\Debug\netcoreapp3.1\CALLING_METHODS.dll
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CALLING_METHODS\CALLING_METHODS\obj\Debug\netcoreapp3.1\CALLING_METHODS.pdb
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CALLING_METHODS\CALLING_METHODS\obj\Debug\netcoreapp3.1\CALLING_METHODS.genruntimeconfig.cache

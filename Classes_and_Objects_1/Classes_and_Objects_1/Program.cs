@@ -11,9 +11,7 @@ namespace Classes_and_Objects_1
         static void Main(string[] args)
         {
             Deck deck = new Deck();
-            int timesShuffled = 0;
-            deck = Shuffle(deck: deck, out timesShuffled, 3);
-            //deck = Shuffle(deck, 3);
+            deck.Shuffle(3);
 
 
             foreach (Card card in deck.Cards)
@@ -22,34 +20,13 @@ namespace Classes_and_Objects_1
             }
 
             Console.WriteLine(deck.Cards.Count);
-            Console.WriteLine("Times shuffled: {0}", timesShuffled);
+           
             Console.ReadLine();
 
             
         }
 
-        public static Deck Shuffle(Deck deck, out int timesSuffled, int times = 1)
-        {
-            timesSuffled = 0;
-            for (int i = 0; i < times; i++)
-            {
-                timesSuffled++;
-                List<Card> TempList = new List<Card>();
-                Random random = new Random();
-
-
-                while (deck.Cards.Count > 0)
-                {
-                    int randomIndex = random.Next(0, deck.Cards.Count);
-                    TempList.Add(deck.Cards[randomIndex]);
-                    deck.Cards.RemoveAt(randomIndex);
-                }
-                deck.Cards = TempList;
-            }
-            
-            return deck;
-
-        }
+        
 
         //public static Deck Shuffle(Deck deck, int times)
         //{

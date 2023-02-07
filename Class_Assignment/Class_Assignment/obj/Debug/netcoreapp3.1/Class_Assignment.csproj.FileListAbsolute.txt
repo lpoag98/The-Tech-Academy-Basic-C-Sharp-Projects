@@ -10,3 +10,4 @@ C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects
 C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class_Assignment\Class_Assignment\obj\Debug\netcoreapp3.1\Class_Assignment.dll
 C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class_Assignment\Class_Assignment\obj\Debug\netcoreapp3.1\Class_Assignment.pdb
 C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class_Assignment\Class_Assignment\obj\Debug\netcoreapp3.1\Class_Assignment.genruntimeconfig.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class_Assignment\Class_Assignment\obj\Debug\netcoreapp3.1\Class_Assignment.csproj.AssemblyReference.cache

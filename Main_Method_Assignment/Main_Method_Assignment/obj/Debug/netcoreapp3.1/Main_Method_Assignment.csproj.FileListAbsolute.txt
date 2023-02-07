@@ -1,0 +1,13 @@
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Assignment\Main_Method_Assignment\obj\Debug\netcoreapp3.1\Main_Method_Assignment.csproj.AssemblyReference.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Assignment\Main_Method_Assignment\obj\Debug\netcoreapp3.1\Main_Method_Assignment.AssemblyInfoInputs.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Assignment\Main_Method_Assignment\obj\Debug\netcoreapp3.1\Main_Method_Assignment.AssemblyInfo.cs
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Assignment\Main_Method_Assignment\obj\Debug\netcoreapp3.1\Main_Method_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Assignment\Main_Method_Assignment\bin\Debug\netcoreapp3.1\Main_Method_Assignment.exe
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Assignment\Main_Method_Assignment\bin\Debug\netcoreapp3.1\Main_Method_Assignment.deps.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Assignment\Main_Method_Assignment\bin\Debug\netcoreapp3.1\Main_Method_Assignment.runtimeconfig.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Assignment\Main_Method_Assignment\bin\Debug\netcoreapp3.1\Main_Method_Assignment.runtimeconfig.dev.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Assignment\Main_Method_Assignment\bin\Debug\netcoreapp3.1\Main_Method_Assignment.dll
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Assignment\Main_Method_Assignment\bin\Debug\netcoreapp3.1\Main_Method_Assignment.pdb
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Assignment\Main_Method_Assignment\obj\Debug\netcoreapp3.1\Main_Method_Assignment.dll
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Assignment\Main_Method_Assignment\obj\Debug\netcoreapp3.1\Main_Method_Assignment.pdb
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main_Method_Assignment\Main_Method_Assignment\obj\Debug\netcoreapp3.1\Main_Method_Assignment.genruntimeconfig.cache

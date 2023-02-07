@@ -1,0 +1,13 @@
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_Assignment_2\Method_Class_Assignment_2\obj\Debug\netcoreapp3.1\Method_Class_Assignment_2.csproj.AssemblyReference.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_Assignment_2\Method_Class_Assignment_2\obj\Debug\netcoreapp3.1\Method_Class_Assignment_2.AssemblyInfoInputs.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_Assignment_2\Method_Class_Assignment_2\obj\Debug\netcoreapp3.1\Method_Class_Assignment_2.AssemblyInfo.cs
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_Assignment_2\Method_Class_Assignment_2\obj\Debug\netcoreapp3.1\Method_Class_Assignment_2.csproj.CoreCompileInputs.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_Assignment_2\Method_Class_Assignment_2\bin\Debug\netcoreapp3.1\Method_Class_Assignment_2.exe
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_Assignment_2\Method_Class_Assignment_2\bin\Debug\netcoreapp3.1\Method_Class_Assignment_2.deps.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_Assignment_2\Method_Class_Assignment_2\bin\Debug\netcoreapp3.1\Method_Class_Assignment_2.runtimeconfig.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_Assignment_2\Method_Class_Assignment_2\bin\Debug\netcoreapp3.1\Method_Class_Assignment_2.runtimeconfig.dev.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_Assignment_2\Method_Class_Assignment_2\bin\Debug\netcoreapp3.1\Method_Class_Assignment_2.dll
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_Assignment_2\Method_Class_Assignment_2\bin\Debug\netcoreapp3.1\Method_Class_Assignment_2.pdb
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_Assignment_2\Method_Class_Assignment_2\obj\Debug\netcoreapp3.1\Method_Class_Assignment_2.dll
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_Assignment_2\Method_Class_Assignment_2\obj\Debug\netcoreapp3.1\Method_Class_Assignment_2.pdb
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method_Class_Assignment_2\Method_Class_Assignment_2\obj\Debug\netcoreapp3.1\Method_Class_Assignment_2.genruntimeconfig.cache

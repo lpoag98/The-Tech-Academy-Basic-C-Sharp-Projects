@@ -20,22 +20,18 @@ namespace Method_Assignment
             string input = Console.ReadLine();
             int num2 = 0;
 
+            int result = 0;
             // Checking if the user entered something for the second number
-            if (!string.IsNullOrEmpty(input))
-            {
-                num2 = Convert.ToInt32(input);
-            }
-
-            int result;
-            if (num2 != 0)
-            {
-                // If the second number was entered, calling the DoMath method with two parameters
-                result = mathOp.DoMath(num1, num2);
-            }
-            else
+            if (string.IsNullOrEmpty(input))
             {
                 // If the second number was not entered, calling the DoMath method with one parameter (num1 * num1)
                 result = mathOp.DoMath(num1);
+            }
+            else
+            {
+                num2 = Convert.ToInt32(input);
+                // If the second number was entered, calling the DoMath method with two parameters
+                result = mathOp.DoMath(num1, num2);
             }
 
             Console.WriteLine("Result: " + result);

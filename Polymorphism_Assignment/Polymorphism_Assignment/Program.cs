@@ -18,6 +18,8 @@ namespace Polymorphism_Assignment
 
             // Call the Quit method on the IQuittable object
             quittable.Quit();
+
+            Console.ReadLine();
         }
     }
 }

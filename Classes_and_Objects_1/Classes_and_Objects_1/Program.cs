@@ -20,7 +20,7 @@ namespace Classes_and_Objects_1
             }
 
             Console.WriteLine(deck.Cards.Count);
-           
+            
             Console.ReadLine();
 
             

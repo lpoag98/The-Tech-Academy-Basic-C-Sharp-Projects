@@ -1,0 +1,13 @@
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Assignment\Abstract_Class_Assignment\bin\Debug\netcoreapp3.1\Abstract_Class_Assignment.exe
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Assignment\Abstract_Class_Assignment\bin\Debug\netcoreapp3.1\Abstract_Class_Assignment.deps.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Assignment\Abstract_Class_Assignment\bin\Debug\netcoreapp3.1\Abstract_Class_Assignment.runtimeconfig.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Assignment\Abstract_Class_Assignment\bin\Debug\netcoreapp3.1\Abstract_Class_Assignment.runtimeconfig.dev.json
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Assignment\Abstract_Class_Assignment\bin\Debug\netcoreapp3.1\Abstract_Class_Assignment.dll
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Assignment\Abstract_Class_Assignment\bin\Debug\netcoreapp3.1\Abstract_Class_Assignment.pdb
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Assignment\Abstract_Class_Assignment\obj\Debug\netcoreapp3.1\Abstract_Class_Assignment.csproj.AssemblyReference.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Assignment\Abstract_Class_Assignment\obj\Debug\netcoreapp3.1\Abstract_Class_Assignment.AssemblyInfoInputs.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Assignment\Abstract_Class_Assignment\obj\Debug\netcoreapp3.1\Abstract_Class_Assignment.AssemblyInfo.cs
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Assignment\Abstract_Class_Assignment\obj\Debug\netcoreapp3.1\Abstract_Class_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Assignment\Abstract_Class_Assignment\obj\Debug\netcoreapp3.1\Abstract_Class_Assignment.dll
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Assignment\Abstract_Class_Assignment\obj\Debug\netcoreapp3.1\Abstract_Class_Assignment.pdb
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract_Class_Assignment\Abstract_Class_Assignment\obj\Debug\netcoreapp3.1\Abstract_Class_Assignment.genruntimeconfig.cache

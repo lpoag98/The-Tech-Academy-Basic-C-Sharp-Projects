@@ -57,11 +57,11 @@ namespace CarInsurance.Controllers
                 var age = DateTime.Now.Year - table.DateOfBirth.Year;
                 if (age <= 18)
                 {
-
+                    quote += 100;
                 }
                 else if (age > 18 && age <= 25)
                 {
-
+                    quote += 50;
                 }
                 else
                 {

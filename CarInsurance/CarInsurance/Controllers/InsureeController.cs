@@ -54,13 +54,14 @@ namespace CarInsurance.Controllers
                 decimal quote = 50;
 
                 // Add price based on age
-                if (table.DateOfBirth > DateTime.Now.AddYears(-18))
+                var age = DateTime.Now.Year - table.DateOfBirth.Year;
+                if (age <= 18)
                 {
-                    quote += 100;
+
                 }
-                else if (table.DateOfBirth > DateTime.Now.AddYears(-25))
+                else if (age > 18 && age <= 25)
                 {
-                    quote += 50;
+
                 }
                 else
                 {
@@ -84,7 +85,10 @@ namespace CarInsurance.Controllers
                 }
 
                 // Add price based on speeding tickets
-                quote += table.SpeedingTickets * 10;
+                if (table.SpeedingTickets > 0)
+                {
+                    quote += table.SpeedingTickets * 10m;
+                }
 
                 // Add price based on DUI
                 if (table.DUI)

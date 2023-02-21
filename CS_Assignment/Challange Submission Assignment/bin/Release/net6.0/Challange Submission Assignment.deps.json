@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Challange Submission Assignment/1.0.0": {
+        "runtime": {
+          "Challange Submission Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Challange Submission Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

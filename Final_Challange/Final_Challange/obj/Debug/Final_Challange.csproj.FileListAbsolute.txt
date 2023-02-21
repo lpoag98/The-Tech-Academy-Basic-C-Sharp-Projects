@@ -1,0 +1,13 @@
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final_Challange\Final_Challange\obj\Debug\Final_Challange.csproj.AssemblyReference.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final_Challange\Final_Challange\obj\Debug\Final_Challange.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final_Challange\Final_Challange\obj\Debug\Final_Challange.csproj.CoreCompileInputs.cache
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final_Challange\Final_Challange\bin\Debug\Final_Challange.exe.config
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final_Challange\Final_Challange\bin\Debug\Final_Challange.exe
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final_Challange\Final_Challange\bin\Debug\Final_Challange.pdb
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final_Challange\Final_Challange\bin\Debug\EntityFramework.dll
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final_Challange\Final_Challange\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final_Challange\Final_Challange\bin\Debug\EntityFramework.xml
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final_Challange\Final_Challange\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final_Challange\Final_Challange\obj\Debug\Final_Challange.csproj.CopyComplete
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final_Challange\Final_Challange\obj\Debug\Final_Challange.exe
+C:\Users\lukep\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final_Challange\Final_Challange\obj\Debug\Final_Challange.pdb
